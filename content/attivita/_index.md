@@ -1,6 +1,6 @@
 ---
-title: 'Attivita'
-intro_image: "images/illustrations/reading.svg"
+title: 'Attività'
+intro_image: "images/illustrations/typer_dancer.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---

@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ianus Capital"
 theme = "hugo-serif-theme"
 
 [params]
@@ -9,13 +9,13 @@ theme = "hugo-serif-theme"
   google_tag_manager_id = ""
 
   [params.homepage]
-    show_call_box = true
+    show_call_box = false
     hide_view_all_services = false  # set to true to hide the View All Services button
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
-    desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
+    desktop = "images/logo/logo.png"
+    desktop_height = "40px"
     alt = "Serif - A Hugo Business Theme"
 
   [params.homepage_meta_tags]
