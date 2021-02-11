@@ -2,5 +2,14 @@
     <h2>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h2>
-    {{ .Content | truncate 120 "…" }}
+   <!--  -->
+   {{if .Params.tagline }}
+    <p>  {{ .Params.tagline | truncate 150 }} </p>
+   {{ else }}
+      {{ .Content | truncate 120 "…" }}
+    {{ end}}
+
+</div>
+<div class="read-more-text">
+   <p><a href="{{ .Permalink }}">Approfondisci</a></p>
 </div>

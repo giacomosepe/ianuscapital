@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://ianuscapital.com"
 languageCode = "en-us"
 title = "Ianus Capital"
 theme = "hugo-serif-theme"
@@ -16,7 +16,7 @@ theme = "hugo-serif-theme"
     mobile = "images/logo/logo-mobile.svg"
     desktop = "images/logo/logo.png"
     desktop_height = "40px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Ianus Capital finanza per l'innovazione"
 
   [params.homepage_meta_tags]
     meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."

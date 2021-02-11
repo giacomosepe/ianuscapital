@@ -4091,6 +4091,13 @@ ol {
     padding: 0;
     margin: 0; }
 
+.read-more-text {
+  text-align: right;
+  font-style: italic;
+  color: #f88379;
+  margin-right: 10%;
+  margin-top: 20px; }
+
 .page {
   display: flex;
   min-height: 100vh;

@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Fundraising",
+    "description": "Come individuare gli investitori adatti a un prodotto e come generare interesse sulla base dei dati e delle prospettive.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Strategia finanziaria",
+    "description": "Quali sono le risorse finanziarie più convenienti, tra contributi a fondo perduto, agevolazioni e capitale privato.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Finanza agevolata",
+    "description": "Quali contrinbuti esistono, e come elaborare la documentazione per garanzie, tassi agevolati e fondo perduto.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
