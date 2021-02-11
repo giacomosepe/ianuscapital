@@ -1,4 +1,4 @@
-baseURL = "https://ianuscapital.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Ianus Capital"
 theme = "hugo-serif-theme"
