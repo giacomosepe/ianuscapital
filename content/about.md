@@ -3,7 +3,7 @@ title: About
 date: 2018-02-22T17:01:34+07:00
 menu: main
 ---
-Lorem markdownum aequalis strigis. *Saetigeri iubeas*, vultu huic alvum nondum
+Domani scrivo il nuovo testo delle pagine.
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
