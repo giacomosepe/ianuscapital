@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Finanziare la trasformazione digitale.
+# Finanziamenti per la trasformazione digitale
 
-Strategie e risorse finanziarie per CFO ce azionisti che investono nella trasformazione digitale.
+Supportiamo CFO e azionisti nell'ottenimento degli incentivi, contributi e sgravi fiscali previsti dai programmi nazionali ed europei
