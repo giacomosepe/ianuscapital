@@ -34,3 +34,4 @@ collections:
     
       - {label: "Weight (scale of 1-9)", name: "weight", widget: "number"}
       - {label: "Tagline", name: "tagline", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
