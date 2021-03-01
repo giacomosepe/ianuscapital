@@ -44,5 +44,5 @@ collections:
       - {label: "Pagine", name: "layout", widget: "hidden", default: "baseof"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Menu", name: "menu", widget: "hidden", default: "main"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Featured Image", name: "intro_image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
