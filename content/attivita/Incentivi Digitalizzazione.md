@@ -17,6 +17,7 @@ Financial accounting (or financial accountancy) is the field of accounting conce
 Financial accounting and financial reporting are often used as synonyms. Financial accounting and financial reporting are often used as synonyms. Financial accounting and financial reporting are often used as synonyms.
 
 Financial accounting and financial reporting are often used as synonyms.
+Will have to think about this.
 
 ## Results
 Financial accounting and financial reporting are often used as synonyms. Financial accounting and financial reporting are often used as synonyms.
