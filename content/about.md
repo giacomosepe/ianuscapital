@@ -3,48 +3,16 @@ title: About
 date: 2018-02-22T17:01:34+07:00
 menu: main
 ---
-Domani scrivo il nuovo testo delle pagine.
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Sono Giacomo Sepe. Il mio reusme si trova online su LinkedIn [GIACOMO SEPE](https://www.linkedin.com/in/giacomosepe/). Il mio lavoro mi consente di aiutare le aziende a dotarsi di software, competenze e finanza per intraprendere con successo il cammino della transizione digitale. Questo lavoro mi appassiona.
 
-## Questa è la pagina del chi siamo
+## Perchè lavorare con me
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens *ferro nocere haud*, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Lavorare con Giacomo ha senso per alcuni motivi:
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco *vati*
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-* Parens est studiisque interea
-* Pro istis mediis carnes iste nec imperat
-* Te vocas orat nisi quantumque castra
-* Gestumque crepuscula esse videntur coegit
-* Ambo videtque gerat aquae ferens vagina
-* Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit *celare* cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+1. Passione per la rivoluzione digitale
+2. Competenze analitiche miste a spirito imprenditoriale
+3. Ossessione per la comprensione dei clienti
+4. "Data driven"
+5. Convinto sostenitore dell'eccellenza dell'imprenditoria italiana
+6. Operativo molto più che strategico
+7. Formazione italiana e americana combinata con esperienze professionali internazionali
